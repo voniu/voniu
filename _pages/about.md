@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zekun Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Zekun Wang  
-**Email**: zekun.wang@hotmail.com | **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zekun-wang-33ba6626b/) | **Mobile**: +86-13785557863  
+**Email**: zekun.wang@@hotmail.com | **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zekun-wang-33ba6626b/)
 
 ---
 
@@ -18,13 +18,6 @@ redirect_from:
 *Aug. 2018 – Jun. 2022*  
 - **GPA**: 3.55/4.0  
 - **Awards**: Merit Scholarship, Outstanding Student Leader Award  
-- **Relevant Courses**:  
-  - Linear Algebra: 92/100  
-  - Discrete Mathematics: 90/100  
-  - Probability and Statistics: 92/100  
-  - Object-Oriented Programming: 91/100  
-  - Principles of Computer Organization: 92/100  
-  - Computer System Integrated Design: A  
 
 ---
 
@@ -88,7 +81,3 @@ redirect_from:
 - **Frameworks and Tools**: ReactJS, NodeJS, Docker, Kubernetes, PyTorch, Linux, Git  
 - **Embedded Systems and Hardware**: FPGA, Arduino, RTOS, FatFs, RFID  
 - **Interest**: Hardware-Software Co-design  
-
-**GitHub**:  
-- [E203-SD-FatFs](https://github.com/voniu/E203-SD-FatFs)  
-- [E203-spi-enhance](https://github.com/voniu/E203_spi_enhance)  
