@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Zekun Wang  
-**Email**: zekun.wang@@hotmail.com | **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/zekun-wang-33ba6626b/)
-
----
-
 ## Education  
 **Hebei University of Technology**  
 *Bachelor of Computer Science and Technology*  
